@@ -51,6 +51,9 @@ class Listener(threading.Thread):
         
     def run(self):
         self.listening = True
+        self.parent.statusbar.SetStatusText("SuperDrive is active.",0)
+        self.prepared_olv = []
+        self.on_air_olv = []
         with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             s.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
             try:
@@ -83,28 +86,26 @@ class Listener(threading.Thread):
                                                shot_name=current_data[0]['shotName'],
                                                template_name=current_data[0]['templateName'],
                                                transition_name=current_data[0]['transitionName'])
-                                self.parent.label_program_index.SetLabel(on_air._index)
-                                self.parent.label_program_slug.SetLabel(on_air.slug)
-                                self.parent.label_program_shot_name.SetLabel(on_air.shot_name)
-                                self.parent.label_program_template_name.SetLabel(on_air.template_name)
-                                self.parent.label_program_transition_name.SetLabel(on_air.transition_name)
+                                self.on_air_olv.append(on_air)
                                 prepared = Prepared(_index=current_data[1]['index'],
                                                slug=current_data[1]['slug'],
                                                shot_name=current_data[1]['shotName'],
                                                template_name=current_data[1]['templateName'],
                                                transition_name=current_data[1]['transitionName'])
-                                self.parent.label_preview_index.SetLabel(prepared._index)
-                                self.parent.label_preview_slug.SetLabel(prepared.slug)
-                                self.parent.label_preview_shot_name.SetLabel(prepared.shot_name)
-                                self.parent.label_preview_template_name.SetLabel(prepared.template_name)
-                                self.parent.label_preview_transition_name.SetLabel(prepared.transition_name)
+                                self.prepared_olv.append(prepared)
                                 self.previous_data = current_data  # Update the previous data
+                                self.parent.set_columns()
                                 if prepared.is_super and not on_air.is_super:
                                     keyboard.press_and_release('space')
                                     print('Playing super.')
+                                    self.parent.statusbar.SetStatusText('Playing super.',1)
+                                else:
+                                    self.parent.statusbar.SetStatusText('',1)
 
                     except json.JSONDecodeError:
                         pass
+
+                self.parent.statusbar.SetStatusText("SuperDrive is not active.",0)
 
             except socket.error as e:
                 print(f"Socket error: {e}")
