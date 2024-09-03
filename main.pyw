@@ -8,13 +8,15 @@ Created on Thu Aug 22 08:15:40 2024
 
 import wx #GUI
 from core import Listener #Backend with FloorDirectorAPI
-from ObjectListView import ObjectListView, ColumnDefn #Data Presentation
+from ObjectListView import FastObjectListView, ObjectListView, ColumnDefn #Data Presentation
 import keyboard, pickle, os #Stroke capture, data persistence, file checking
+import webbrowser #Open documentation
+import logging
 
 class MainFrame(wx.Frame):
-    def __init__(self,overdrive_connection,superdrive_port,super_keyword,advance_key):
+    def __init__(self,overdrive_connection,superdrive_port,super_keyword,advance_key, press_delay, log, log_level):
         super().__init__(parent=None,title="SuperDrive")
-        self.title = "Super Drive 1.0.1"
+        self.title = "SuperDrive 1.0.3"
         self.SetTitle(self.title)
         self.SetIcon(wx.Icon('img/icon.ico'))
         self.overdrive_connection = overdrive_connection
@@ -22,6 +24,10 @@ class MainFrame(wx.Frame):
         self.super_keyword = super_keyword
         self.advance_key = advance_key
         self.overdrive = Listener(self, self.overdrive_connection, self.super_keyword, self.advance_key)
+        self.press_delay = press_delay #Seconds to wait before triggering the take and prepare.
+        self.log = log
+        self.log_level = log_level
+        logging.basicConfig(filename='SuperDrive.log',level=self.log_level)
         #self.receiver = Receiver(self)
         self.Bind(wx.EVT_CLOSE,self.on_close)
         '''Init Layout'''
@@ -37,11 +43,15 @@ class MainFrame(wx.Frame):
         
         '''Preview Widgets'''
         self.label_preview = wx.StaticText(self.panel_main, label="Prepared")
-        self.olv_preview = ObjectListView(self.panel_main, wx.ID_ANY, style=wx.LC_REPORT|wx.SUNKEN_BORDER|wx.EXPAND)
+        self.olv_preview = FastObjectListView(self.panel_main, wx.ID_ANY, style=wx.LC_REPORT|wx.SUNKEN_BORDER|wx.EXPAND)
+        self.olv_preview.cellEditMode = FastObjectListView.CELLEDIT_NONE
+        self.olv_preview.Bind(wx.EVT_CHAR_HOOK, self.on_key_down)
         
         '''Program Widgets'''
         self.label_program = wx.StaticText(self.panel_main, label="On Air")
-        self.olv_program = ObjectListView(self.panel_main, wx.ID_ANY, style=wx.LC_REPORT|wx.SUNKEN_BORDER|wx.EXPAND)
+        self.olv_program = FastObjectListView(self.panel_main, wx.ID_ANY, style=wx.LC_REPORT|wx.SUNKEN_BORDER|wx.EXPAND)
+        self.olv_program.cellEditMode = FastObjectListView.CELLEDIT_NONE
+        self.olv_program.Bind(wx.EVT_CHAR_HOOK, self.on_key_down)
         
         '''Filling Sizers'''
         self.sizer_main.AddMany([(self.label_preview,1,wx.ALL|wx.CENTER),
@@ -57,22 +67,32 @@ class MainFrame(wx.Frame):
         self.create_menu()
         self.Show()
     
+    def on_key_down(self, event):
+        keycode = event.GetKeyCode()
+        if keycode == wx.WXK_SPACE:
+            pass
+        else:
+            event.Skip()
+    
     def set_columns(self):
         self.col_index = ColumnDefn("Page", "left", -1, "_index", isSpaceFilling=True)
         self.col_slug = ColumnDefn("Slug", "left", -1, "slug", isSpaceFilling=True)
         self.col_shot = ColumnDefn("Shot", "left", -1, "shot_name", isSpaceFilling=True)
         self.col_template = ColumnDefn("Template", "left", -1, "template_name", isSpaceFilling=True)
         self.col_transition = ColumnDefn("Transition", "left", -1, "transition_name", isSpaceFilling=True)
+        self.col_is_super = ColumnDefn("Super", "left", -1, "is_super", isSpaceFilling=True)
         self.olv_preview.SetColumns([self.col_index,
                                      self.col_slug,
                                      self.col_shot,
                                      self.col_template,
-                                     self.col_transition])
+                                     self.col_transition,
+                                     self.col_is_super])
         self.olv_program.SetColumns([self.col_index,
                                      self.col_slug,
                                      self.col_shot,
                                      self.col_template,
-                                     self.col_transition])
+                                     self.col_transition,
+                                     self.col_is_super])
         try:
             self.olv_preview.SetObjects(self.overdrive.prepared_olv)
         except Exception as e:
@@ -93,7 +113,9 @@ class MainFrame(wx.Frame):
                 settings = [self.overdrive_connection,
                             self.superdrive_port,
                             self.super_keyword,
-                            self.advance_key]
+                            self.advance_key,
+                            self.press_delay,
+                            self.log_level]
                 pickle.dump(settings,file)
                 file.close()
             self.Destroy()
@@ -143,7 +165,8 @@ class MainFrame(wx.Frame):
         AboutFrame(self)
     
     def on_documentation(self, event):
-        pass
+        path = os.getcwd()
+        webbrowser.open(f'{path}\\documentation\\documentation.pdf')
     
 class SettingsFrame(wx.Frame):
     def __init__(self, parent):
@@ -156,8 +179,17 @@ class SettingsFrame(wx.Frame):
         self.SetIcon(wx.Icon('img/icon.ico'))
         self.parent = parent
         self.panel_main = wx.Panel(self)
-        self.sizer = wx.FlexGridSizer(6,2,10,10)
+        self.sizer = wx.FlexGridSizer(8,2,10,10)
         self.sizer_buttons = wx.BoxSizer(wx.HORIZONTAL)
+        self.log_levels = {"None": logging.NOTSET,
+                           "Debug": logging.DEBUG,
+                           "Info": logging.INFO,
+                           "Warning": logging.WARNING,
+                           "Error": logging.ERROR,
+                           "Critical": logging.CRITICAL}
+        self.log_choices = []
+        for key in self.log_levels.keys():
+            self.log_choices.append(key)
         
         '''Widgets'''
         self.label_key = wx.StaticText(self.panel_main,label="OverDrive Advance Key")
@@ -183,6 +215,24 @@ class SettingsFrame(wx.Frame):
         self.field_super_keyword = wx.TextCtrl(self.panel_main)
         self.field_super_keyword.SetValue(self.parent.overdrive.super_keyword)
         
+        self.label_press_delay = wx.StaticText(self.panel_main,label="Advance Delay (Seconds)")
+        self.field_press_delay = wx.TextCtrl(self.panel_main)
+        self.field_press_delay.SetValue(str(self.parent.press_delay))
+        self.spinner_press_delay = wx.SpinButton(self.panel_main)
+        self.spinner_press_delay.Bind(wx.EVT_SPIN_UP, self.spinner_up)
+        self.spinner_press_delay.Bind(wx.EVT_SPIN_DOWN, self.spinner_down)
+        self.sizer_press_delay = wx.BoxSizer(wx.HORIZONTAL)
+        self.sizer_press_delay.AddMany([(self.field_press_delay,1,wx.ALL|wx.CENTER),
+                                        (self.spinner_press_delay,1,wx.ALL|wx.CENTER)])
+        
+        self.label_log_level = wx.StaticText(self.panel_main,label="Logging")
+        self.choice_log_level = wx.Choice(self.panel_main,choices=self.log_choices)
+        current_level = logging.getLogger().getEffectiveLevel()
+        for key, value in self.log_levels.items():
+            if value == current_level:
+                n = list(self.log_levels.keys()).index(key)
+                self.choice_log_level.SetSelection(n)
+        
         self.button_apply = wx.Button(self.panel_main,label="Apply")
         self.button_apply.Bind(wx.EVT_BUTTON, self.on_apply)
         self.button_cancel = wx.Button(self.panel_main,label="Cancel")
@@ -201,6 +251,10 @@ class SettingsFrame(wx.Frame):
                             (self.field_superdrive_port,1,wx.ALL|wx.CENTER),
                             (self.label_super_keyword,1,wx.ALL|wx.CENTER),
                             (self.field_super_keyword,1,wx.ALL|wx.CENTER),
+                            (self.label_press_delay,1,wx.ALL|wx.CENTER),
+                            (self.sizer_press_delay,1,wx.ALL|wx.CENTER),
+                            (self.label_log_level,1,wx.ALL|wx.CENTER),
+                            (self.choice_log_level,1,wx.ALL|wx.CENTER),
                             (self.sizer_buttons,1,wx.ALL|wx.CENTER)])
         self.panel_main.SetSizerAndFit(self.sizer)
         self.SetInitialSize(self.GetBestSize())
@@ -221,7 +275,17 @@ class SettingsFrame(wx.Frame):
             del(self.assigned)
         self.button_key.SetValue(True)
         self.button_key.SetLabel("[[Press any key.]]")
+    
+    def spinner_down(self, event):
+        current = float(self.field_press_delay.GetValue())
+        current -= 0.25
+        self.field_press_delay.SetValue(str(current))
         
+    def spinner_up(self, event):
+        current = float(self.field_press_delay.GetValue())
+        current += 0.25
+        self.field_press_delay.SetValue(str(current))
+    
     def on_close(self, event):
         dlg = wx.MessageDialog(self,'Quit without saving your changes?','Quit?',wx.YES_NO)
         result = dlg.ShowModal()
@@ -236,9 +300,12 @@ class SettingsFrame(wx.Frame):
             self.parent.overdrive.advance_key = self.assigned
         overdrive_ip = self.field_overdrive_ip.GetValue()
         overdrive_port = int(self.field_overdrive_port.GetValue())
+        log_level = self.log_levels[self.choice_log_level.GetString(self.choice_log_level.GetSelection())]
+        logging.getLogger().setLevel(log_level)
         self.parent.overdrive_connection = (overdrive_ip, overdrive_port)
         self.parent.superdrive_port = int(self.field_superdrive_port.GetValue())
         self.parent.super_keyword = self.field_super_keyword.GetValue()
+        self.parent.press_delay = float(self.field_press_delay.GetValue())
         if self.parent.overdrive.listening:
             self.parent.overdrive.listening = False
         self.parent.overdrive = Listener(self.parent, self.parent.overdrive_connection, self.parent.super_keyword, self.parent.advance_key)
@@ -278,17 +345,20 @@ class AboutFrame(wx.Frame):
         
         
 def main():
+    logger = logging.getLogger(__name__)
     if os.path.isfile('settings.pkl'):
         with open('settings.pkl','rb') as file:
-            overdrive_connection, superdrive_port, super_keyword, advance_key = pickle.load(file)
+            overdrive_connection, superdrive_port, super_keyword, advance_key, press_delay, log_level = pickle.load(file)
             file.close()
     else:
         overdrive_connection = ('10.10.78.10', 8760)
         superdrive_port = 8888
         super_keyword = "XPN 1 MOS CG"
         advance_key = "space"
+        press_delay = 0.5
+        log_level =  logging.INFO
     app=[]; app = wx.App(None)
-    frame = MainFrame(overdrive_connection, superdrive_port, super_keyword, advance_key)
+    frame = MainFrame(overdrive_connection, superdrive_port, super_keyword, advance_key, press_delay, logger, log_level)
     app.SetTopWindow(frame)
     app.MainLoop()
         
