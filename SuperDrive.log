@@ -17154,3 +17154,1871 @@ INFO:__main__:Prepared: D4
  CAM2 
  SET XPT 
  Cut
+INFO:__main__:Prepared: A46 
+ 5A HOLLAND HOMICIDE TRIAL BEGINS-INTRO 
+ CAM1 
+ SET XPT 
+ Cut
+INFO:__main__:On Air: A44 
+ 5A DETROIT REFINERY STRIKE TODAY-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A DETROIT REFINERY STRIKE TODAY-VO","index":"A44","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-INTRO","index":"A46","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:05:50,609-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:05:50,609-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:05:51,610-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A DETROIT REFINERY STRIKE TODAY-VO","index":"A44","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-INTRO","index":"A46","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:05:51,610-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A DETROIT REFINERY STRIKE TODAY-VO","index":"A44","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-INTRO","index":"A46","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:05:52,596-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:05:52,612-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:05:55,160-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A DETROIT REFINERY STRIKE TODAY-VO","index":"A44","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-INTRO","index":"A46","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:05:55,160-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A DETROIT REFINERY STRIKE TODAY-VO","index":"A44","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-INTRO","index":"A46","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:05:56,160-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:05:56,160-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A DETROIT REFINERY STRIKE TODAY-VO","index":"A44","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-INTRO","index":"A46","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:05:56,644-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:05:56,660-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A DETROIT REFINERY STRIKE TODAY-VO","index":"A44","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-INTRO","index":"A46","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:05:57,146-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:05:57,161-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A DETROIT REFINERY STRIKE TODAY-VO","index":"A44","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-INTRO","index":"A46","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:05:58,164-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:05:58,164-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A DETROIT REFINERY STRIKE TODAY-VO","index":"A44","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-INTRO","index":"A46","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:05:59,210-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:05:59,210-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A DETROIT REFINERY STRIKE TODAY-VO","index":"A44","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-INTRO","index":"A46","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:06:00,211-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:06:00,226-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A DETROIT REFINERY STRIKE TODAY-VO","index":"A44","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-INTRO","index":"A46","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:06:02,760-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:06:02,760-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A DETROIT REFINERY STRIKE TODAY-VO","index":"A44","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-INTRO","index":"A46","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:06:08,796-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:06:08,811-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A DETROIT REFINERY STRIKE TODAY-VO","index":"A44","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-INTRO","index":"A46","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:06:09,798-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:06:09,813-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: A46 
+ 5A HOLLAND HOMICIDE TRIAL BEGINS-INTRO 
+ CAM1 
+ SET XPT 
+ Cut
+INFO:__main__:Prepared: A46 
+ 5A HOLLAND HOMICIDE TRIAL BEGINS-INTRO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: A47 
+ 5A HOLLAND HOMICIDE TRIAL BEGINS-VO 
+ 10000 - QT-VO 
+ QT-VO 
+ Cut
+INFO:__main__:On Air: A46 
+ 5A HOLLAND HOMICIDE TRIAL BEGINS-INTRO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-INTRO","index":"A46","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-VO","index":"A47","shotName":"10000 - QT-VO","templateName":"QT-VO","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:06:15,866-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:06:15,866-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:06:18,917-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-INTRO","index":"A46","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-VO","index":"A47","shotName":"10000 - QT-VO","templateName":"QT-VO","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:06:18,917-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: A47 
+ 5A HOLLAND HOMICIDE TRIAL BEGINS-VO 
+ 10000 - QT-VO 
+ QT-VO 
+ Cut
+INFO:__main__:Prepared: A47 
+ 5A HOLLAND HOMICIDE TRIAL BEGINS-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: A51 
+ 5A SCHOOL EMERGENCY PLANNING RESOURCES-INTRO 
+ OTS R C3 
+ OTS RIGHT 
+ Cut
+INFO:__main__:On Air: A47 
+ 5A HOLLAND HOMICIDE TRIAL BEGINS-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-VO","index":"A47","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A SCHOOL EMERGENCY PLANNING RESOURCES-INTRO","index":"A51","shotName":"OTS R C3","templateName":"OTS RIGHT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:06:22,937-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:06:22,953-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-VO","index":"A47","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A SCHOOL EMERGENCY PLANNING RESOURCES-INTRO","index":"A51","shotName":"OTS R C3","templateName":"OTS RIGHT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:06:23,938-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:06:23,954-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-VO","index":"A47","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A SCHOOL EMERGENCY PLANNING RESOURCES-INTRO","index":"A51","shotName":"OTS R C3","templateName":"OTS RIGHT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:06:26,940-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:06:26,956-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-VO","index":"A47","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A SCHOOL EMERGENCY PLANNING RESOURCES-INTRO","index":"A51","shotName":"OTS R C3","templateName":"OTS RIGHT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:06:29,989-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:06:30,005-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-VO","index":"A47","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A SCHOOL EMERGENCY PLANNING RESOURCES-INTRO","index":"A51","shotName":"OTS R C3","templateName":"OTS RIGHT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:06:32,007-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:06:32,007-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A HOLLAND HOMICIDE TRIAL BEGINS-VO","index":"A47","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A SCHOOL EMERGENCY PLANNING RESOURCES-INTRO","index":"A51","shotName":"OTS R C3","templateName":"OTS RIGHT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:06:33,055-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:06:33,055-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: A51 
+ 5A SCHOOL EMERGENCY PLANNING RESOURCES-INTRO 
+ OTS R C3 
+ OTS RIGHT 
+ Cut
+INFO:__main__:Prepared: A47 
+ 5A HOLLAND HOMICIDE TRIAL BEGINS-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: A51 
+ 5A SCHOOL EMERGENCY PLANNING RESOURCES-INTRO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: A52 
+ 5A SCHOOL EMERGENCY PLANNING RESOURCES-VO SIDEBAR 
+ OTS L SIDEBAR CG3 
+ OTS LEFT SVR 
+ Cut
+INFO:__main__:On Air: A51 
+ 5A SCHOOL EMERGENCY PLANNING RESOURCES-INTRO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A SCHOOL EMERGENCY PLANNING RESOURCES-INTRO","index":"A51","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A SCHOOL EMERGENCY PLANNING RESOURCES-VO SIDEBAR","index":"A52","shotName":"OTS L SIDEBAR CG3","templateName":"OTS LEFT SVR","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:06:42,187-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:06:42,203-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A SCHOOL EMERGENCY PLANNING RESOURCES-INTRO","index":"A51","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A SCHOOL EMERGENCY PLANNING RESOURCES-VO SIDEBAR","index":"A52","shotName":"OTS L SIDEBAR CG3","templateName":"OTS LEFT SVR","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:06:42,594-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:06:42,610-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A SCHOOL EMERGENCY PLANNING RESOURCES-INTRO","index":"A51","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A SCHOOL EMERGENCY PLANNING RESOURCES-VO SIDEBAR","index":"A52","shotName":"OTS L SIDEBAR CG3","templateName":"OTS LEFT SVR","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:06:45,143-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:06:45,159-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: A52 
+ 5A SCHOOL EMERGENCY PLANNING RESOURCES-VO SIDEBAR 
+ OTS L SIDEBAR CG3 
+ OTS LEFT SVR 
+ Cut
+INFO:__main__:Prepared: A52 
+ 5A SCHOOL EMERGENCY PLANNING RESOURCES-VO SIDEBAR 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: A54 
+ 5A KZOO EM CHANGES-LIVE BOXES 
+ LIVEBOX 2-SVR 
+ LIVEBOX XPT SVR 
+ TRANS - 8PUSH
+INFO:__main__:On Air: A52 
+ 5A SCHOOL EMERGENCY PLANNING RESOURCES-VO SIDEBAR 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A SCHOOL EMERGENCY PLANNING RESOURCES-VO SIDEBAR","index":"A52","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"LIVEBOX 2-SVR","templateName":"LIVEBOX XPT SVR","transitionName":"TRANS - 8PUSH"}],"meta":{"serverDate":"2024-09-04T06:06:55,244-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:06:55,260-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A SCHOOL EMERGENCY PLANNING RESOURCES-VO SIDEBAR","index":"A52","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"LIVEBOX 2-SVR","templateName":"LIVEBOX XPT SVR","transitionName":"TRANS - 8PUSH"}],"meta":{"serverDate":"2024-09-04T06:07:04,311-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:04,311-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:06,359-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A SCHOOL EMERGENCY PLANNING RESOURCES-VO SIDEBAR","index":"A52","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"LIVEBOX 2-SVR","templateName":"LIVEBOX XPT SVR","transitionName":"TRANS - 8PUSH"}],"meta":{"serverDate":"2024-09-04T06:07:06,359-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A SCHOOL EMERGENCY PLANNING RESOURCES-VO SIDEBAR","index":"A52","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"LIVEBOX 2-SVR","templateName":"LIVEBOX XPT SVR","transitionName":"TRANS - 8PUSH"}],"meta":{"serverDate":"2024-09-04T06:07:08,345-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:08,361-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A SCHOOL EMERGENCY PLANNING RESOURCES-VO SIDEBAR","index":"A52","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"LIVEBOX 2-SVR","templateName":"LIVEBOX XPT SVR","transitionName":"TRANS - 8PUSH"}],"meta":{"serverDate":"2024-09-04T06:07:11,409-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:11,409-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:16,459-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A SCHOOL EMERGENCY PLANNING RESOURCES-VO SIDEBAR","index":"A52","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"LIVEBOX 2-SVR","templateName":"LIVEBOX XPT SVR","transitionName":"TRANS - 8PUSH"}],"meta":{"serverDate":"2024-09-04T06:07:16,459-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: A54 
+ 5A KZOO EM CHANGES-LIVE BOXES 
+ LIVEBOX 2-SVR 
+ LIVEBOX XPT SVR 
+ TRANS - 8PUSH
+INFO:__main__:Prepared: A54 
+ 5A KZOO EM CHANGES-LIVE BOXES 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: A55 
+ 5A KZOO EM CHANGES-SOTVO 
+ SOT 
+ VO (POOL)  
+ WIPE
+INFO:__main__:On Air: A54 
+ 5A KZOO EM CHANGES-LIVE BOXES 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:07:18,444-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:18,460-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:07:19,461-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:19,461-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:21,510-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:07:21,510-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:07:22,495-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:22,510-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:07:23,496-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:23,511-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:07:24,012-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:24,012-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:07:26,545-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:26,561-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:07:27,535-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:27,566-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:07:28,019-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:28,067-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:07:28,584-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:28,615-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:07:29,100-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:29,115-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:07:32,102-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:32,117-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:07:33,166-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:33,166-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:07:33,652-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:33,668-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:07:34,652-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:34,668-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:07:35,168-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:35,168-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:07:35,637-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:35,653-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-LIVE BOXES","index":"A54","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:07:36,748-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:36,763-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: A55 
+ 5A KZOO EM CHANGES-SOTVO 
+ SOT 
+ VO (POOL)  
+ WIPE
+INFO:__main__:Prepared: A55 
+ 5A KZOO EM CHANGES-SOTVO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:07:39,203-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:39,203-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:07:39,688-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:39,704-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: A55 
+ 5A KZOO EM CHANGES-SOTVO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:41,705-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:07:41,705-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:07:43,756-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:43,756-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:07:44,757-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:44,757-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:Prepared: A55 
+ 5A KZOO EM CHANGES-SOTVO 
+ CONT VO L 
+ AUDIO ONLY 
+ Audio Only
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"CONT VO L","templateName":"AUDIO ONLY","transitionName":"Audio Only"}],"meta":{"serverDate":"2024-09-04T06:07:48,301-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:48,309-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"CONT VO L","templateName":"AUDIO ONLY","transitionName":"Audio Only"}],"meta":{"serverDate":"2024-09-04T06:07:48,809-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:48,809-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:56,861-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"CONT VO L","templateName":"AUDIO ONLY","transitionName":"Audio Only"}],"meta":{"serverDate":"2024-09-04T06:07:56,861-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: A55 
+ 5A KZOO EM CHANGES-SOTVO 
+ CONT VO L 
+ AUDIO ONLY 
+ Audio Only
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"CONT VO L","templateName":"AUDIO ONLY","transitionName":"Audio Only"},{"type":"prepared","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"CONT VO L","templateName":"AUDIO ONLY","transitionName":"Audio Only"}],"meta":{"serverDate":"2024-09-04T06:07:58,332-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:58,363-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:Prepared: A57 
+ TZ 1 3RD PARTY VOTER MAILERS-ON CAM 
+ CAM1 
+ SET XPT 
+ Cut
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"CONT VO L","templateName":"AUDIO ONLY","transitionName":"Audio Only"},{"type":"prepared","slug":"TZ 1 3RD PARTY VOTER MAILERS-ON CAM","index":"A57","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:07:58,894-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:58,910-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:07:59,911-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"CONT VO L","templateName":"AUDIO ONLY","transitionName":"Audio Only"},{"type":"prepared","slug":"TZ 1 3RD PARTY VOTER MAILERS-ON CAM","index":"A57","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:07:59,911-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:03,960-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A KZOO EM CHANGES-SOTVO","index":"A55","shotName":"CONT VO L","templateName":"AUDIO ONLY","transitionName":"Audio Only"},{"type":"prepared","slug":"TZ 1 3RD PARTY VOTER MAILERS-ON CAM","index":"A57","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:08:03,960-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: A57 
+ TZ 1 3RD PARTY VOTER MAILERS-ON CAM 
+ CAM1 
+ SET XPT 
+ Cut
+INFO:__main__:Prepared: A57 
+ TZ 1 3RD PARTY VOTER MAILERS-ON CAM 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: A58 
+ TZ 1 3RD PARTY VOTER MAILERS-VO 
+ 10000 - QT-VO 
+ QT-VO 
+ Cut
+INFO:__main__:On Air: A57 
+ TZ 1 3RD PARTY VOTER MAILERS-ON CAM 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 1 3RD PARTY VOTER MAILERS-ON CAM","index":"A57","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 1 3RD PARTY VOTER MAILERS-VO","index":"A58","shotName":"10000 - QT-VO","templateName":"QT-VO","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:08:05,446-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:05,462-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 1 3RD PARTY VOTER MAILERS-ON CAM","index":"A57","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 1 3RD PARTY VOTER MAILERS-VO","index":"A58","shotName":"10000 - QT-VO","templateName":"QT-VO","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:08:06,446-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:06,462-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:09,012-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"TZ 1 3RD PARTY VOTER MAILERS-ON CAM","index":"A57","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 1 3RD PARTY VOTER MAILERS-VO","index":"A58","shotName":"10000 - QT-VO","templateName":"QT-VO","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:08:09,012-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:10,013-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"TZ 1 3RD PARTY VOTER MAILERS-ON CAM","index":"A57","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 1 3RD PARTY VOTER MAILERS-VO","index":"A58","shotName":"10000 - QT-VO","templateName":"QT-VO","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:08:10,013-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:11,013-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"TZ 1 3RD PARTY VOTER MAILERS-ON CAM","index":"A57","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 1 3RD PARTY VOTER MAILERS-VO","index":"A58","shotName":"10000 - QT-VO","templateName":"QT-VO","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:08:11,013-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 1 3RD PARTY VOTER MAILERS-ON CAM","index":"A57","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 1 3RD PARTY VOTER MAILERS-VO","index":"A58","shotName":"10000 - QT-VO","templateName":"QT-VO","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:08:11,998-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:12,014-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: A58 
+ TZ 1 3RD PARTY VOTER MAILERS-VO 
+ 10000 - QT-VO 
+ QT-VO 
+ Cut
+INFO:__main__:Prepared: A58 
+ TZ 1 3RD PARTY VOTER MAILERS-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 1 3RD PARTY VOTER MAILERS-VO","index":"A58","shotName":"10000 - QT-VO","templateName":"QT-VO","transitionName":"Cut"},{"type":"prepared","slug":"TZ 1 3RD PARTY VOTER MAILERS-VO","index":"A58","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:08:13,202-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:13,546-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:Prepared: A59 
+ TZ 1 ISRAEL HAMAS LATEST-VO 
+ 10003 - QT-VOTW 
+ QT-VOTW 
+ WIPE
+INFO:__main__:On Air: A58 
+ TZ 1 3RD PARTY VOTER MAILERS-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:14,062-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"TZ 1 3RD PARTY VOTER MAILERS-VO","index":"A58","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 1 ISRAEL HAMAS LATEST-VO","index":"A59","shotName":"10003 - QT-VOTW","templateName":"QT-VOTW","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:08:14,062-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 1 3RD PARTY VOTER MAILERS-VO","index":"A58","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 1 ISRAEL HAMAS LATEST-VO","index":"A59","shotName":"10003 - QT-VOTW","templateName":"QT-VOTW","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:08:15,046-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:15,062-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 1 3RD PARTY VOTER MAILERS-VO","index":"A58","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 1 ISRAEL HAMAS LATEST-VO","index":"A59","shotName":"10003 - QT-VOTW","templateName":"QT-VOTW","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:08:16,048-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:16,063-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 1 3RD PARTY VOTER MAILERS-VO","index":"A58","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 1 ISRAEL HAMAS LATEST-VO","index":"A59","shotName":"10003 - QT-VOTW","templateName":"QT-VOTW","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:08:18,051-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:18,066-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 1 3RD PARTY VOTER MAILERS-VO","index":"A58","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 1 ISRAEL HAMAS LATEST-VO","index":"A59","shotName":"10003 - QT-VOTW","templateName":"QT-VOTW","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:08:19,113-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:19,113-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: A59 
+ TZ 1 ISRAEL HAMAS LATEST-VO 
+ 10003 - QT-VOTW 
+ QT-VOTW 
+ WIPE
+INFO:__main__:Prepared: A59 
+ TZ 1 ISRAEL HAMAS LATEST-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: A60 
+ CAPPER-CAPPER 
+ 94 - XPN 6 MOS CG 
+ XPN 6 MOS CG 
+ --
+INFO:__main__:On Air: A59 
+ TZ 1 ISRAEL HAMAS LATEST-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 1 ISRAEL HAMAS LATEST-VO","index":"A59","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"A60","shotName":"94 - XPN 6 MOS CG","templateName":"XPN 6 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:08:20,616-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:20,616-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:21,116-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"TZ 1 ISRAEL HAMAS LATEST-VO","index":"A59","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"A60","shotName":"94 - XPN 6 MOS CG","templateName":"XPN 6 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:08:21,116-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 1 ISRAEL HAMAS LATEST-VO","index":"A59","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"A60","shotName":"94 - XPN 6 MOS CG","templateName":"XPN 6 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:08:22,102-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:22,117-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 1 ISRAEL HAMAS LATEST-VO","index":"A59","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"A60","shotName":"94 - XPN 6 MOS CG","templateName":"XPN 6 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:08:23,165-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:23,165-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: A60 
+ CAPPER-CAPPER 
+ 94 - XPN 6 MOS CG 
+ XPN 6 MOS CG 
+ --
+INFO:__main__:Prepared: A60 
+ CAPPER-CAPPER 
+ CAPPER STOP 
+ BK 
+ Cut
+INFO:__main__:On Air: A60 
+ CAPPER-CAPPER 
+ CAPPER STOP 
+ BK 
+ Cut
+INFO:__main__:Prepared: A60 
+ CAPPER-CAPPER 
+ 94 - XPN 6 MOS CG 
+ XPN 6 MOS CG 
+ --
+INFO:__main__:Prepared: B0 
+ BREAK NINE 
+ DB CAPPER BREAK 
+ BK 
+ DISS30
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"CAPPER-CAPPER","index":"A60","shotName":"CAPPER STOP","templateName":"BK","transitionName":"Cut"},{"type":"prepared","slug":"BREAK NINE","index":"B0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"}],"meta":{"serverDate":"2024-09-04T06:08:27,652-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:27,668-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:28,168-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"CAPPER-CAPPER","index":"A60","shotName":"CAPPER STOP","templateName":"BK","transitionName":"Cut"},{"type":"prepared","slug":"BREAK NINE","index":"B0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"}],"meta":{"serverDate":"2024-09-04T06:08:28,168-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"CAPPER-CAPPER","index":"A60","shotName":"CAPPER STOP","templateName":"BK","transitionName":"Cut"},{"type":"prepared","slug":"BREAK NINE","index":"B0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"}],"meta":{"serverDate":"2024-09-04T06:08:29,199-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:29,214-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"CAPPER-CAPPER","index":"A60","shotName":"CAPPER STOP","templateName":"BK","transitionName":"Cut"},{"type":"prepared","slug":"BREAK NINE","index":"B0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"}],"meta":{"serverDate":"2024-09-04T06:08:30,700-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:30,716-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"CAPPER-CAPPER","index":"A60","shotName":"CAPPER STOP","templateName":"BK","transitionName":"Cut"},{"type":"prepared","slug":"BREAK NINE","index":"B0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"}],"meta":{"serverDate":"2024-09-04T06:08:32,701-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:32,717-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:33,093-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"CAPPER-CAPPER","index":"A60","shotName":"CAPPER STOP","templateName":"BK","transitionName":"Cut"},{"type":"prepared","slug":"BREAK NINE","index":"B0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"}],"meta":{"serverDate":"2024-09-04T06:08:33,093-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: B0 
+ BREAK NINE 
+ DB CAPPER BREAK 
+ BK 
+ DISS30
+INFO:__main__:Prepared: A60 
+ CAPPER-CAPPER 
+ CAPPER STOP 
+ BK 
+ Cut
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"BREAK NINE","index":"B0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"A60","shotName":"CAPPER STOP","templateName":"BK","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:08:33,738-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:33,753-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:Prepared: B0 
+ BREAK NINE 
+ CUE 
+ BK 
+ Cut
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"BREAK NINE","index":"B0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"},{"type":"prepared","slug":"BREAK NINE","index":"B0","shotName":"CUE","templateName":"BK","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:08:37,241-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:37,257-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"BREAK NINE","index":"B0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"},{"type":"prepared","slug":"BREAK NINE","index":"B0","shotName":"CUE","templateName":"BK","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:08:43,808-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:43,808-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"BREAK NINE","index":"B0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"},{"type":"prepared","slug":"BREAK NINE","index":"B0","shotName":"CUE","templateName":"BK","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:08:48,842-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:08:48,858-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:Prepared: B2 
+ 5A ISRAEL HAMAS CEASEFIRE LATEST-INTRO 
+ CAM3 
+ SET XPT 
+ DISS15
+INFO:__main__:On Air: B0 
+ BREAK NINE 
+ CUE 
+ BK 
+ Cut
+INFO:__main__:On Air: B2 
+ 5A ISRAEL HAMAS CEASEFIRE LATEST-INTRO 
+ CAM3 
+ SET XPT 
+ DISS15
+INFO:__main__:Prepared: B2 
+ 5A ISRAEL HAMAS CEASEFIRE LATEST-INTRO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: B3 
+ 5A ISRAEL HAMAS CEASEFIRE LATEST-PKG 
+ 10002 - QT-SOT 
+ QT-SOT 
+ Cut
+INFO:__main__:On Air: B2 
+ 5A ISRAEL HAMAS CEASEFIRE LATEST-INTRO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:On Air: B3 
+ 5A ISRAEL HAMAS CEASEFIRE LATEST-PKG 
+ 10002 - QT-SOT 
+ QT-SOT 
+ Cut
+INFO:__main__:Prepared: B3 
+ 5A ISRAEL HAMAS CEASEFIRE LATEST-PKG 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: B5 
+ 5A 3RD PARTY VOTER REGISTRATION MAILERS-INTRO 
+ CAM1 
+ SET XPT 
+ Cut
+INFO:__main__:On Air: B3 
+ 5A ISRAEL HAMAS CEASEFIRE LATEST-PKG 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A ISRAEL HAMAS CEASEFIRE LATEST-PKG","index":"B3","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-INTRO","index":"B5","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:11:40,847-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:11:40,862-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A ISRAEL HAMAS CEASEFIRE LATEST-PKG","index":"B3","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-INTRO","index":"B5","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:11:41,879-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:11:41,911-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A ISRAEL HAMAS CEASEFIRE LATEST-PKG","index":"B3","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-INTRO","index":"B5","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:11:44,961-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:11:44,961-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A ISRAEL HAMAS CEASEFIRE LATEST-PKG","index":"B3","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-INTRO","index":"B5","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:12:43,992-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:12:44,008-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:12:48,058-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A ISRAEL HAMAS CEASEFIRE LATEST-PKG","index":"B3","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-INTRO","index":"B5","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:12:48,058-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A ISRAEL HAMAS CEASEFIRE LATEST-PKG","index":"B3","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-INTRO","index":"B5","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:12:56,770-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:12:56,786-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:Prepared: B3 
+ 5A ISRAEL HAMAS CEASEFIRE LATEST-PKG 
+ 10002 - QT-SOT 
+ QT-SOT 
+ Cut
+INFO:__main__:Prepared: B5 
+ 5A 3RD PARTY VOTER REGISTRATION MAILERS-INTRO 
+ CAM1 
+ SET XPT 
+ Cut
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A ISRAEL HAMAS CEASEFIRE LATEST-PKG","index":"B3","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-INTRO","index":"B5","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:12:58,429-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:12:58,429-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:13:04,715-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A ISRAEL HAMAS CEASEFIRE LATEST-PKG","index":"B3","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-INTRO","index":"B5","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:13:04,715-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: B5 
+ 5A 3RD PARTY VOTER REGISTRATION MAILERS-INTRO 
+ CAM1 
+ SET XPT 
+ Cut
+INFO:__main__:Prepared: B5 
+ 5A 3RD PARTY VOTER REGISTRATION MAILERS-INTRO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: B6 
+ 5A 3RD PARTY VOTER REGISTRATION MAILERS-VO 
+ 10000 - QT-VO 
+ QT-VO 
+ Cut
+INFO:__main__:On Air: B5 
+ 5A 3RD PARTY VOTER REGISTRATION MAILERS-INTRO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:13:08,767-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-INTRO","index":"B5","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-VO","index":"B6","shotName":"10000 - QT-VO","templateName":"QT-VO","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:13:08,767-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-INTRO","index":"B5","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-VO","index":"B6","shotName":"10000 - QT-VO","templateName":"QT-VO","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:13:09,267-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:13:09,267-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: B6 
+ 5A 3RD PARTY VOTER REGISTRATION MAILERS-VO 
+ 10000 - QT-VO 
+ QT-VO 
+ Cut
+INFO:__main__:Prepared: B6 
+ 5A 3RD PARTY VOTER REGISTRATION MAILERS-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: B7 
+ 5A 3RD PARTY VOTER REGISTRATION MAILERS-FSS 
+ FSS 2 
+ SET XPT 
+ TRANS - YLEH
+INFO:__main__:On Air: B6 
+ 5A 3RD PARTY VOTER REGISTRATION MAILERS-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:13:21,917-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-VO","index":"B6","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-FSS","index":"B7","shotName":"FSS 2","templateName":"SET XPT","transitionName":"TRANS - YLEH"}],"meta":{"serverDate":"2024-09-04T06:13:21,917-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-VO","index":"B6","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-FSS","index":"B7","shotName":"FSS 2","templateName":"SET XPT","transitionName":"TRANS - YLEH"}],"meta":{"serverDate":"2024-09-04T06:13:23,905-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:13:23,905-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-VO","index":"B6","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-FSS","index":"B7","shotName":"FSS 2","templateName":"SET XPT","transitionName":"TRANS - YLEH"}],"meta":{"serverDate":"2024-09-04T06:13:26,907-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:13:26,907-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-VO","index":"B6","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-FSS","index":"B7","shotName":"FSS 2","templateName":"SET XPT","transitionName":"TRANS - YLEH"}],"meta":{"serverDate":"2024-09-04T06:13:29,957-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:13:29,957-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-VO","index":"B6","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-FSS","index":"B7","shotName":"FSS 2","templateName":"SET XPT","transitionName":"TRANS - YLEH"}],"meta":{"serverDate":"2024-09-04T06:13:30,957-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:13:30,957-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-VO","index":"B6","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-FSS","index":"B7","shotName":"FSS 2","templateName":"SET XPT","transitionName":"TRANS - YLEH"}],"meta":{"serverDate":"2024-09-04T06:13:32,006-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:13:32,006-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:13:35,008-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-VO","index":"B6","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-FSS","index":"B7","shotName":"FSS 2","templateName":"SET XPT","transitionName":"TRANS - YLEH"}],"meta":{"serverDate":"2024-09-04T06:13:35,008-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: B7 
+ 5A 3RD PARTY VOTER REGISTRATION MAILERS-FSS 
+ FSS 2 
+ SET XPT 
+ TRANS - YLEH
+INFO:__main__:Prepared: B7 
+ 5A 3RD PARTY VOTER REGISTRATION MAILERS-FSS 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: B8 
+ 5A 3RD PARTY VOTER REGISTRATION MAILERS-INET-1 
+ INET1 
+ SET XPT 
+ TRANS - YLEH
+INFO:__main__:On Air: B7 
+ 5A 3RD PARTY VOTER REGISTRATION MAILERS-FSS 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:13:38,057-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-FSS","index":"B7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-INET-1","index":"B8","shotName":"INET1","templateName":"SET XPT","transitionName":"TRANS - YLEH"}],"meta":{"serverDate":"2024-09-04T06:13:38,057-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:13:46,111-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-FSS","index":"B7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-INET-1","index":"B8","shotName":"INET1","templateName":"SET XPT","transitionName":"TRANS - YLEH"}],"meta":{"serverDate":"2024-09-04T06:13:46,111-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: B8 
+ 5A 3RD PARTY VOTER REGISTRATION MAILERS-INET-1 
+ INET1 
+ SET XPT 
+ TRANS - YLEH
+INFO:__main__:Prepared: B8 
+ 5A 3RD PARTY VOTER REGISTRATION MAILERS-INET-1 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: B11 
+ TZ 1 MEGA MILLIONS JACKPOT-VO 
+ DB TEASE VO COMING UP 
+ VO (POOL)  
+ TRANS - COMING UP
+INFO:__main__:On Air: B8 
+ 5A 3RD PARTY VOTER REGISTRATION MAILERS-INET-1 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-INET-1","index":"B8","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 1 MEGA MILLIONS JACKPOT-VO","index":"B11","shotName":"DB TEASE VO COMING UP","templateName":"VO (POOL) ","transitionName":"TRANS - COMING UP"}],"meta":{"serverDate":"2024-09-04T06:13:48,129-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:13:48,160-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:13:51,166-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A 3RD PARTY VOTER REGISTRATION MAILERS-INET-1","index":"B8","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 1 MEGA MILLIONS JACKPOT-VO","index":"B11","shotName":"DB TEASE VO COMING UP","templateName":"VO (POOL) ","transitionName":"TRANS - COMING UP"}],"meta":{"serverDate":"2024-09-04T06:13:51,166-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: B11 
+ TZ 1 MEGA MILLIONS JACKPOT-VO 
+ DB TEASE VO COMING UP 
+ VO (POOL)  
+ TRANS - COMING UP
+INFO:__main__:Prepared: B11 
+ TZ 1 MEGA MILLIONS JACKPOT-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: B12 
+ TZ 1 UP FALL COLOR DELAY-VO 
+ 10003 - QT-VOTW 
+ QT-VOTW 
+ WIPE
+INFO:__main__:On Air: B11 
+ TZ 1 MEGA MILLIONS JACKPOT-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 1 MEGA MILLIONS JACKPOT-VO","index":"B11","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 1 UP FALL COLOR DELAY-VO","index":"B12","shotName":"10003 - QT-VOTW","templateName":"QT-VOTW","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:13:53,200-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:13:53,216-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 1 MEGA MILLIONS JACKPOT-VO","index":"B11","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 1 UP FALL COLOR DELAY-VO","index":"B12","shotName":"10003 - QT-VOTW","templateName":"QT-VOTW","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:13:54,717-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:13:54,717-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 1 MEGA MILLIONS JACKPOT-VO","index":"B11","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 1 UP FALL COLOR DELAY-VO","index":"B12","shotName":"10003 - QT-VOTW","templateName":"QT-VOTW","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:13:55,701-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:13:55,717-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 1 MEGA MILLIONS JACKPOT-VO","index":"B11","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 1 UP FALL COLOR DELAY-VO","index":"B12","shotName":"10003 - QT-VOTW","templateName":"QT-VOTW","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:13:56,701-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:13:56,717-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: B12 
+ TZ 1 UP FALL COLOR DELAY-VO 
+ 10003 - QT-VOTW 
+ QT-VOTW 
+ WIPE
+INFO:__main__:Prepared: B12 
+ TZ 1 UP FALL COLOR DELAY-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 1 UP FALL COLOR DELAY-VO","index":"B12","shotName":"10003 - QT-VOTW","templateName":"QT-VOTW","transitionName":"WIPE"},{"type":"prepared","slug":"TZ 1 UP FALL COLOR DELAY-VO","index":"B12","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:13:59,954-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:00,282-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:Prepared: B16 
+ WX TEASE ONE-INTRO 
+ CAM5 
+ SET XPT 
+ WIPE
+INFO:__main__:On Air: B12 
+ TZ 1 UP FALL COLOR DELAY-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 1 UP FALL COLOR DELAY-VO","index":"B12","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"WX TEASE ONE-INTRO","index":"B16","shotName":"CAM5","templateName":"SET XPT","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:14:01,752-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:01,768-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 1 UP FALL COLOR DELAY-VO","index":"B12","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"WX TEASE ONE-INTRO","index":"B16","shotName":"CAM5","templateName":"SET XPT","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:14:02,800-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:02,815-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 1 UP FALL COLOR DELAY-VO","index":"B12","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"WX TEASE ONE-INTRO","index":"B16","shotName":"CAM5","templateName":"SET XPT","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:14:04,301-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:04,316-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: B16 
+ WX TEASE ONE-INTRO 
+ CAM5 
+ SET XPT 
+ WIPE
+INFO:__main__:Prepared: B16 
+ WX TEASE ONE-INTRO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: B17 
+ WX TEASE ONE-SKYCAM 
+ FS 4 
+ SET XPT 
+ DISS15
+INFO:__main__:On Air: B16 
+ WX TEASE ONE-INTRO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE ONE-INTRO","index":"B16","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"WX TEASE ONE-SKYCAM","index":"B17","shotName":"FS 4","templateName":"SET XPT","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:14:05,817-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:05,817-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE ONE-INTRO","index":"B16","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"WX TEASE ONE-SKYCAM","index":"B17","shotName":"FS 4","templateName":"SET XPT","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:14:06,301-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:06,317-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE ONE-INTRO","index":"B16","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"WX TEASE ONE-SKYCAM","index":"B17","shotName":"FS 4","templateName":"SET XPT","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:14:06,817-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:06,817-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE ONE-INTRO","index":"B16","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"WX TEASE ONE-SKYCAM","index":"B17","shotName":"FS 4","templateName":"SET XPT","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:14:07,302-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:07,317-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:Prepared: B17 
+ WX TEASE ONE-SKYCAM 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: B18 
+ CAPPER-CAPPER 
+ 94 - XPN 6 MOS CG 
+ XPN 6 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE ONE-INTRO","index":"B16","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"B18","shotName":"94 - XPN 6 MOS CG","templateName":"XPN 6 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:14:11,678-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:11,678-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE ONE-INTRO","index":"B16","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"B18","shotName":"94 - XPN 6 MOS CG","templateName":"XPN 6 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:14:13,414-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:13,414-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE ONE-INTRO","index":"B16","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"B18","shotName":"94 - XPN 6 MOS CG","templateName":"XPN 6 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:14:14,398-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:14,414-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: B18 
+ CAPPER-CAPPER 
+ 94 - XPN 6 MOS CG 
+ XPN 6 MOS CG 
+ --
+INFO:__main__:Prepared: B18 
+ CAPPER-CAPPER 
+ CAPPER STOP 
+ BK 
+ Cut
+INFO:__main__:On Air: B18 
+ CAPPER-CAPPER 
+ CAPPER STOP 
+ BK 
+ Cut
+INFO:__main__:Prepared: C0 
+ BREAK TEN 
+ DB CAPPER BREAK 
+ BK 
+ DISS30
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"CAPPER-CAPPER","index":"B18","shotName":"CAPPER STOP","templateName":"BK","transitionName":"Cut"},{"type":"prepared","slug":"BREAK TEN","index":"C0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"}],"meta":{"serverDate":"2024-09-04T06:14:18,449-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:18,464-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"CAPPER-CAPPER","index":"B18","shotName":"CAPPER STOP","templateName":"BK","transitionName":"Cut"},{"type":"prepared","slug":"BREAK TEN","index":"C0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"}],"meta":{"serverDate":"2024-09-04T06:14:20,465-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:20,465-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"CAPPER-CAPPER","index":"B18","shotName":"CAPPER STOP","templateName":"BK","transitionName":"Cut"},{"type":"prepared","slug":"BREAK TEN","index":"C0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"}],"meta":{"serverDate":"2024-09-04T06:14:21,450-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:21,466-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"CAPPER-CAPPER","index":"B18","shotName":"CAPPER STOP","templateName":"BK","transitionName":"Cut"},{"type":"prepared","slug":"BREAK TEN","index":"C0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"}],"meta":{"serverDate":"2024-09-04T06:14:22,498-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:22,514-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"CAPPER-CAPPER","index":"B18","shotName":"CAPPER STOP","templateName":"BK","transitionName":"Cut"},{"type":"prepared","slug":"BREAK TEN","index":"C0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"}],"meta":{"serverDate":"2024-09-04T06:14:24,936-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:24,951-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: C0 
+ BREAK TEN 
+ DB CAPPER BREAK 
+ BK 
+ DISS30
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"BREAK TEN","index":"C0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"},{"type":"prepared","slug":"BREAK TEN","index":"C0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"}],"meta":{"serverDate":"2024-09-04T06:14:25,576-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:25,592-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:Prepared: C0 
+ BREAK TEN 
+ CUE 
+ BK 
+ Cut
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"BREAK TEN","index":"C0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"},{"type":"prepared","slug":"BREAK TEN","index":"C0","shotName":"CUE","templateName":"BK","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:14:27,546-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:27,561-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"BREAK TEN","index":"C0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"},{"type":"prepared","slug":"BREAK TEN","index":"C0","shotName":"CUE","templateName":"BK","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:14:28,546-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:28,561-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"BREAK TEN","index":"C0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"},{"type":"prepared","slug":"BREAK TEN","index":"C0","shotName":"CUE","templateName":"BK","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:14:30,547-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:14:30,563-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: C0 
+ BREAK TEN 
+ CUE 
+ BK 
+ Cut
+INFO:__main__:Prepared: C2 
+ SHORT WX OPEN-OPEN 
+ 94 - XPN 6 MOS CG 
+ XPN 6 MOS CG 
+ --
+INFO:__main__:On Air: C2 
+ SHORT WX OPEN-OPEN 
+ 94 - XPN 6 MOS CG 
+ XPN 6 MOS CG 
+ --
+INFO:__main__:Prepared: C4 
+ 5A UP PEAK COLORS DELAYED-VO 
+ 10001 - QT-VOTD 
+ QT-VOTD 
+ DISS15
+INFO:__main__:On Air: C4 
+ 5A UP PEAK COLORS DELAYED-VO 
+ 10001 - QT-VOTD 
+ QT-VOTD 
+ DISS15
+INFO:__main__:Prepared: C4 
+ 5A UP PEAK COLORS DELAYED-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-VO","index":"C4","shotName":"10001 - QT-VOTD","templateName":"QT-VOTD","transitionName":"DISS15"},{"type":"prepared","slug":"5A UP PEAK COLORS DELAYED-VO","index":"C4","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:17:03,633-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:04,024-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:Prepared: C5 
+ 5A UP PEAK COLORS DELAYED-CHAT 
+ CAM3 
+ SET XPT 
+ DISS15
+INFO:__main__:On Air: C4 
+ 5A UP PEAK COLORS DELAYED-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-VO","index":"C4","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"CAM3","templateName":"SET XPT","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:04,431-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:04,447-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-VO","index":"C4","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"CAM3","templateName":"SET XPT","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:08,544-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:08,559-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-VO","index":"C4","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"CAM3","templateName":"SET XPT","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:09,544-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:09,559-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-VO","index":"C4","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"CAM3","templateName":"SET XPT","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:11,607-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:11,607-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-VO","index":"C4","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"CAM3","templateName":"SET XPT","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:14,594-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:14,609-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-VO","index":"C4","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"CAM3","templateName":"SET XPT","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:15,610-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:15,610-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-VO","index":"C4","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"CAM3","templateName":"SET XPT","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:17,643-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:17,659-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-VO","index":"C4","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"CAM3","templateName":"SET XPT","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:18,660-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:18,660-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:25,212-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-VO","index":"C4","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"CAM3","templateName":"SET XPT","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:25,212-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-VO","index":"C4","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"CAM3","templateName":"SET XPT","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:26,197-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:26,213-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-VO","index":"C4","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"CAM3","templateName":"SET XPT","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:27,197-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:27,213-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: C5 
+ 5A UP PEAK COLORS DELAYED-CHAT 
+ CAM3 
+ SET XPT 
+ DISS15
+INFO:__main__:Prepared: C5 
+ 5A UP PEAK COLORS DELAYED-CHAT 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: C7 
+ MAIN WEATHER-ON CAM 
+ CHROMA LYNX 1 
+ Chroma 
+ DISS15
+INFO:__main__:On Air: C5 
+ 5A UP PEAK COLORS DELAYED-CHAT 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:30,264-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"CHROMA LYNX 1","templateName":"Chroma","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:30,264-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:30,764-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"CHROMA LYNX 1","templateName":"Chroma","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:30,764-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:35,314-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"CHROMA LYNX 1","templateName":"Chroma","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:35,314-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"CHROMA LYNX 1","templateName":"Chroma","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:36,314-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:36,314-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"CHROMA LYNX 1","templateName":"Chroma","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:37,299-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:37,315-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"CHROMA LYNX 1","templateName":"Chroma","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:39,160-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"CHROMA LYNX 1","templateName":"Chroma","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:39,176-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"CHROMA LYNX 1","templateName":"Chroma","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:40,363-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:40,363-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A UP PEAK COLORS DELAYED-CHAT","index":"C5","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"CHROMA LYNX 1","templateName":"Chroma","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:17:43,787-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:43,802-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: C7 
+ MAIN WEATHER-ON CAM 
+ CHROMA LYNX 1 
+ Chroma 
+ DISS15
+INFO:__main__:Prepared: C7 
+ MAIN WEATHER-ON CAM 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:On Air: C7 
+ MAIN WEATHER-ON CAM 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:17:44,554-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:44,570-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:17:45,398-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:45,413-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:17:47,368-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:47,416-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:17:48,418-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:48,465-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:17:49,434-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:49,465-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:17:50,498-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:50,513-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:17:51,483-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:51,514-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:17:52,546-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:52,562-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:17:53,532-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:53,563-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:17:54,548-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:54,563-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:17:55,580-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:55,626-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:17:57,597-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:57,612-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:17:58,645-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:17:58,661-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:18:00,645-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:18:00,661-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"MAIN WEATHER-ON CAM","index":"C7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:18:02,648-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:18:02,663-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:Prepared: C8 
+ MAIN WEATHER-WXGFX1 
+ LYNX 1 
+ SET XPT 
+ DISS15
+INFO:__main__:Prepared: C8 
+ MAIN WEATHER-WXGFX1 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: C11 
+ MAIN TRAFFIC-INTRO 
+ CAM4 
+ SET XPT 
+ TRANS - TRAFFIC
+INFO:__main__:On Air: C11 
+ MAIN TRAFFIC-INTRO 
+ CAM4 
+ SET XPT 
+ TRANS - TRAFFIC
+INFO:__main__:Prepared: C11 
+ MAIN TRAFFIC-INTRO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:On Air: C11 
+ MAIN TRAFFIC-INTRO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: C12 
+ MAIN TRAFFIC-TR-GFX 
+ LYNX 3 
+ SET XPT 
+ DISS15
+INFO:__main__:Prepared: C12 
+ MAIN TRAFFIC-TR-GFX 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:On Air: C12 
+ MAIN TRAFFIC-TR-GFX 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: C14 
+ 5A PENTATONIX TO GR-LIVE BOXES 
+ LIVEBOX 2-SVR 
+ LIVEBOX XPT SVR 
+ TRANS - 8PUSH
+INFO:__main__:On Air: C14 
+ 5A PENTATONIX TO GR-LIVE BOXES 
+ LIVEBOX 2-SVR 
+ LIVEBOX XPT SVR 
+ TRANS - 8PUSH
+INFO:__main__:Prepared: C14 
+ 5A PENTATONIX TO GR-LIVE BOXES 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: C16 
+ 5A MEGA MILLIONS NO WINNER-SM BIG BOXES 
+ 2001 SBBOX  2- SVR 
+ SBBOX  XPT SVR 
+ TRANS - 8PUSH
+INFO:__main__:On Air: C14 
+ 5A PENTATONIX TO GR-LIVE BOXES 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A PENTATONIX TO GR-LIVE BOXES","index":"C14","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A MEGA MILLIONS NO WINNER-SM BIG BOXES","index":"C16","shotName":"2001 SBBOX  2- SVR","templateName":"SBBOX  XPT SVR","transitionName":"TRANS - 8PUSH"}],"meta":{"serverDate":"2024-09-04T06:20:44,491-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:20:44,507-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:20:53,612-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"5A PENTATONIX TO GR-LIVE BOXES","index":"C14","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A MEGA MILLIONS NO WINNER-SM BIG BOXES","index":"C16","shotName":"2001 SBBOX  2- SVR","templateName":"SBBOX  XPT SVR","transitionName":"TRANS - 8PUSH"}],"meta":{"serverDate":"2024-09-04T06:20:53,612-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A PENTATONIX TO GR-LIVE BOXES","index":"C14","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"5A MEGA MILLIONS NO WINNER-SM BIG BOXES","index":"C16","shotName":"2001 SBBOX  2- SVR","templateName":"SBBOX  XPT SVR","transitionName":"TRANS - 8PUSH"}],"meta":{"serverDate":"2024-09-04T06:20:59,052-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:20:59,052-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: C16 
+ 5A MEGA MILLIONS NO WINNER-SM BIG BOXES 
+ 2001 SBBOX  2- SVR 
+ SBBOX  XPT SVR 
+ TRANS - 8PUSH
+INFO:__main__:Prepared: C16 
+ 5A MEGA MILLIONS NO WINNER-SM BIG BOXES 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: C18 
+ TZ 3 SCHOOL CELL PHONE BANS-ON CAM 
+ CAM1 
+ SET XPT 
+ Cut
+INFO:__main__:On Air: C16 
+ 5A MEGA MILLIONS NO WINNER-SM BIG BOXES 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A MEGA MILLIONS NO WINNER-SM BIG BOXES","index":"C16","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 3 SCHOOL CELL PHONE BANS-ON CAM","index":"C18","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:21:11,750-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:21:11,766-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"5A MEGA MILLIONS NO WINNER-SM BIG BOXES","index":"C16","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 3 SCHOOL CELL PHONE BANS-ON CAM","index":"C18","shotName":"CAM1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:21:14,799-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:21:14,815-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: C18 
+ TZ 3 SCHOOL CELL PHONE BANS-ON CAM 
+ CAM1 
+ SET XPT 
+ Cut
+INFO:__main__:Prepared: C18 
+ TZ 3 SCHOOL CELL PHONE BANS-ON CAM 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: C19 
+ TZ 3 SCHOOL CELL PHONE BANS-VO 
+ 10000 - QT-VO 
+ QT-VO 
+ Cut
+INFO:__main__:On Air: C18 
+ TZ 3 SCHOOL CELL PHONE BANS-ON CAM 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 3 SCHOOL CELL PHONE BANS-ON CAM","index":"C18","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"TZ 3 SCHOOL CELL PHONE BANS-VO","index":"C19","shotName":"10000 - QT-VO","templateName":"QT-VO","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:21:26,389-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:21:26,404-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: C19 
+ TZ 3 SCHOOL CELL PHONE BANS-VO 
+ 10000 - QT-VO 
+ QT-VO 
+ Cut
+INFO:__main__:Prepared: C19 
+ TZ 3 SCHOOL CELL PHONE BANS-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: C20 
+ TZ 3 SHERMANS CLOSING-VO 
+ 10003 - QT-VOTW 
+ QT-VOTW 
+ WIPE
+INFO:__main__:On Air: C19 
+ TZ 3 SCHOOL CELL PHONE BANS-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:On Air: C20 
+ TZ 3 SHERMANS CLOSING-VO 
+ 10003 - QT-VOTW 
+ QT-VOTW 
+ WIPE
+INFO:__main__:Prepared: C20 
+ TZ 3 SHERMANS CLOSING-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: C21 
+ CAPPER-CAPPER 
+ 94 - XPN 6 MOS CG 
+ XPN 6 MOS CG 
+ --
+INFO:__main__:On Air: C20 
+ TZ 3 SHERMANS CLOSING-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: C20 
+ TZ 3 SHERMANS CLOSING-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:On Air: C21 
+ CAPPER-CAPPER 
+ 94 - XPN 6 MOS CG 
+ XPN 6 MOS CG 
+ --
+INFO:__main__:Prepared: C21 
+ CAPPER-CAPPER 
+ CAPPER STOP 
+ BK 
+ Cut
+INFO:__main__:On Air: C21 
+ CAPPER-CAPPER 
+ CAPPER STOP 
+ BK 
+ Cut
+INFO:__main__:Prepared: C21 
+ CAPPER-CAPPER 
+ 94 - XPN 6 MOS CG 
+ XPN 6 MOS CG 
+ --
+INFO:__main__:Prepared: D0 
+ BREAK ELEVEN 
+ DB CAPPER BREAK 
+ BK 
+ DISS30
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"CAPPER-CAPPER","index":"C21","shotName":"CAPPER STOP","templateName":"BK","transitionName":"Cut"},{"type":"prepared","slug":"BREAK ELEVEN","index":"D0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"}],"meta":{"serverDate":"2024-09-04T06:21:52,195-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:21:52,210-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: D0 
+ BREAK ELEVEN 
+ DB CAPPER BREAK 
+ BK 
+ DISS30
+INFO:__main__:Prepared: C21 
+ CAPPER-CAPPER 
+ CAPPER STOP 
+ BK 
+ Cut
+INFO:__main__:Prepared: D0 
+ BREAK ELEVEN 
+ CUE 
+ BK 
+ Cut
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"BREAK ELEVEN","index":"D0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"},{"type":"prepared","slug":"BREAK ELEVEN","index":"D0","shotName":"CUE","templateName":"BK","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:22:07,798-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:22:07,814-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"BREAK ELEVEN","index":"D0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"},{"type":"prepared","slug":"BREAK ELEVEN","index":"D0","shotName":"CUE","templateName":"BK","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:22:09,863-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:22:09,863-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:22:10,863-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"BREAK ELEVEN","index":"D0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"},{"type":"prepared","slug":"BREAK ELEVEN","index":"D0","shotName":"CUE","templateName":"BK","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:22:10,863-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"BREAK ELEVEN","index":"D0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"},{"type":"prepared","slug":"BREAK ELEVEN","index":"D0","shotName":"CUE","templateName":"BK","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:22:12,850-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:22:12,866-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:Prepared: D15 
+ WX TEASE TWO-WXGFX1 
+ CHROMA LYNX 1 
+ Chroma 
+ DISS15
+INFO:__main__:On Air: D11 
+ TZ 4 MI LITERACY RATES-VO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 4 MI LITERACY RATES-VO","index":"D11","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"CHROMA LYNX 1","templateName":"Chroma","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:26:30,291-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:30,306-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:31,855-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"TZ 4 MI LITERACY RATES-VO","index":"D11","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"CHROMA LYNX 1","templateName":"Chroma","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:26:31,855-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"TZ 4 MI LITERACY RATES-VO","index":"D11","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"CHROMA LYNX 1","templateName":"Chroma","transitionName":"DISS15"}],"meta":{"serverDate":"2024-09-04T06:26:33,153-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:33,169-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: D15 
+ WX TEASE TWO-WXGFX1 
+ CHROMA LYNX 1 
+ Chroma 
+ DISS15
+INFO:__main__:Prepared: D15 
+ WX TEASE TWO-WXGFX1 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: D15 
+ WX TEASE TWO-WXGFX1 
+ FS 1 
+ SET XPT 
+ Cut
+INFO:__main__:On Air: D15 
+ WX TEASE TWO-WXGFX1 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"FS 1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:26:35,342-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:35,358-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"FS 1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:26:35,842-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:35,858-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"FS 1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:26:37,906-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:37,906-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"FS 1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:26:38,892-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:38,907-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"FS 1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:26:42,929-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:42,960-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"FS 1","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:26:44,089-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:44,120-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: D15 
+ WX TEASE TWO-WXGFX1 
+ FS 1 
+ SET XPT 
+ Cut
+INFO:__main__:Prepared: D15 
+ WX TEASE TWO-WXGFX1 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: D16 
+ CAPPER-CAPPER 
+ 94 - XPN 6 MOS CG 
+ XPN 6 MOS CG 
+ --
+INFO:__main__:On Air: D15 
+ WX TEASE TWO-WXGFX1 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"D16","shotName":"94 - XPN 6 MOS CG","templateName":"XPN 6 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:26:44,964-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:45,011-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"D16","shotName":"94 - XPN 6 MOS CG","templateName":"XPN 6 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:26:45,983-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:46,014-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"D16","shotName":"94 - XPN 6 MOS CG","templateName":"XPN 6 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:26:46,483-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:46,514-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"D16","shotName":"94 - XPN 6 MOS CG","templateName":"XPN 6 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:26:47,047-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:47,062-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"D16","shotName":"94 - XPN 6 MOS CG","templateName":"XPN 6 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:26:48,048-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:48,064-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"D16","shotName":"94 - XPN 6 MOS CG","templateName":"XPN 6 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:26:48,533-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:48,564-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"D16","shotName":"94 - XPN 6 MOS CG","templateName":"XPN 6 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:26:49,033-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:49,065-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"D16","shotName":"94 - XPN 6 MOS CG","templateName":"XPN 6 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:26:49,596-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:49,612-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"D16","shotName":"94 - XPN 6 MOS CG","templateName":"XPN 6 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:26:50,081-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:50,112-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"D16","shotName":"94 - XPN 6 MOS CG","templateName":"XPN 6 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:26:50,565-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:50,612-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:51,113-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"WX TEASE TWO-WXGFX1","index":"D15","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"D16","shotName":"94 - XPN 6 MOS CG","templateName":"XPN 6 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:26:51,113-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: D16 
+ CAPPER-CAPPER 
+ 94 - XPN 6 MOS CG 
+ XPN 6 MOS CG 
+ --
+INFO:__main__:Prepared: D15 
+ WX TEASE TWO-WXGFX1 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: D16 
+ CAPPER-CAPPER 
+ CAPPER STOP 
+ BK 
+ Cut
+INFO:__main__:On Air: D16 
+ CAPPER-CAPPER 
+ CAPPER STOP 
+ BK 
+ Cut
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"CAPPER-CAPPER","index":"D16","shotName":"CAPPER STOP","templateName":"BK","transitionName":"Cut"},{"type":"prepared","slug":"CAPPER-CAPPER","index":"D16","shotName":"CAPPER STOP","templateName":"BK","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:26:52,786-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:52,786-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:Prepared: D16 
+ CAPPER-CAPPER 
+ 94 - XPN 6 MOS CG 
+ XPN 6 MOS CG 
+ --
+INFO:__main__:Prepared: E0 
+ BREAK TWELVE 
+ DB CAPPER BREAK 
+ BK 
+ DISS30
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"CAPPER-CAPPER","index":"D16","shotName":"CAPPER STOP","templateName":"BK","transitionName":"Cut"},{"type":"prepared","slug":"BREAK TWELVE","index":"E0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"}],"meta":{"serverDate":"2024-09-04T06:26:53,193-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:53,193-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: E0 
+ BREAK TWELVE 
+ DB CAPPER BREAK 
+ BK 
+ DISS30
+INFO:__main__:Prepared: D16 
+ CAPPER-CAPPER 
+ CAPPER STOP 
+ BK 
+ Cut
+INFO:__main__:Prepared: E0 
+ BREAK TWELVE 
+ CUE 
+ BK 
+ Cut
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:26:59,710-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"BREAK TWELVE","index":"E0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"},{"type":"prepared","slug":"BREAK TWELVE","index":"E0","shotName":"CUE","templateName":"BK","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:26:59,710-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"BREAK TWELVE","index":"E0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"},{"type":"prepared","slug":"BREAK TWELVE","index":"E0","shotName":"CUE","templateName":"BK","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:27:06,792-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:27:06,808-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"BREAK TWELVE","index":"E0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"},{"type":"prepared","slug":"BREAK TWELVE","index":"E0","shotName":"CUE","templateName":"BK","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:27:07,763-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:27:07,810-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"BREAK TWELVE","index":"E0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"},{"type":"prepared","slug":"BREAK TWELVE","index":"E0","shotName":"CUE","templateName":"BK","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:27:08,765-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:27:08,812-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:Prepared: - 
+ - 
+ - 
+ - 
+ -
+INFO:__main__:Prepared: E3 
+ CUE CODES FOR TOP OF SHOW 
+ BREAK 
+ BK 
+ DISS30
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:28:18,372-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"BREAK TWELVE","index":"E0","shotName":"DB CAPPER BREAK","templateName":"BK","transitionName":"DISS30"},{"type":"prepared","slug":"CUE CODES FOR TOP OF SHOW","index":"E3","shotName":"BREAK","templateName":"BK","transitionName":"DISS30"}],"meta":{"serverDate":"2024-09-04T06:28:18,372-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: E3 
+ CUE CODES FOR TOP OF SHOW 
+ BREAK 
+ BK 
+ DISS30
+INFO:__main__:Prepared: - 
+ - 
+ - 
+ - 
+ -
+INFO:__main__:Prepared: E3 
+ CUE CODES FOR TOP OF SHOW 
+ CUE 
+ BK 
+ Cut
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"CUE CODES FOR TOP OF SHOW","index":"E3","shotName":"BREAK","templateName":"BK","transitionName":"DISS30"},{"type":"prepared","slug":"CUE CODES FOR TOP OF SHOW","index":"E3","shotName":"CUE","templateName":"BK","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:28:20,812-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:28:20,828-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:Prepared: E5 
+ BREAKING OPEN-OPEN 
+ ANI NO TAKE PREP 
+ XPN 6 MOS CG 
+ --
+INFO:__main__:On Air: E3 
+ CUE CODES FOR TOP OF SHOW 
+ CUE 
+ BK 
+ Cut
+INFO:__main__:On Air: E5 
+ BREAKING OPEN-OPEN 
+ ANI NO TAKE PREP 
+ XPN 6 MOS CG 
+ --
+INFO:__main__:Prepared: E6 
+ HEADLINE 1 gun lake crash-LIVEPIX 
+ FS 11 
+ SET XPT 
+ Cut
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"BREAKING OPEN-OPEN","index":"E5","shotName":"ANI NO TAKE PREP","templateName":"XPN 6 MOS CG","transitionName":"--"},{"type":"prepared","slug":"HEADLINE 1 gun lake crash-LIVEPIX","index":"E6","shotName":"FS 11","templateName":"SET XPT","transitionName":"Cut"}],"meta":{"serverDate":"2024-09-04T06:29:29,177-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:29:29,177-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: E6 
+ HEADLINE 1 gun lake crash-LIVEPIX 
+ FS 11 
+ SET XPT 
+ Cut
+INFO:__main__:Prepared: E6 
+ HEADLINE 1 gun lake crash-LIVEPIX 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: E7 
+ HEADLINE 3 wx-ONCAM 
+ CAM5 
+ SET XPT 
+ WIPE
+INFO:__main__:On Air: E6 
+ HEADLINE 1 gun lake crash-LIVEPIX 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:On Air: E7 
+ HEADLINE 3 wx-ONCAM 
+ CAM5 
+ SET XPT 
+ WIPE
+INFO:__main__:Prepared: E7 
+ HEADLINE 3 wx-ONCAM 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"HEADLINE 3 wx-ONCAM","index":"E7","shotName":"CAM5","templateName":"SET XPT","transitionName":"WIPE"},{"type":"prepared","slug":"HEADLINE 3 wx-ONCAM","index":"E7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:29:44,081-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:29:44,534-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:Prepared: E8 
+ HEADLINE 4 gas price alert-SOTVO 
+ SOT 
+ VO (POOL)  
+ WIPE
+INFO:__main__:On Air: E7 
+ HEADLINE 3 wx-ONCAM 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:29:44,956-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"HEADLINE 3 wx-ONCAM","index":"E7","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"HEADLINE 4 gas price alert-SOTVO","index":"E8","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"}],"meta":{"serverDate":"2024-09-04T06:29:44,956-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: E8 
+ HEADLINE 4 gas price alert-SOTVO 
+ SOT 
+ VO (POOL)  
+ WIPE
+INFO:__main__:Prepared: E8 
+ HEADLINE 4 gas price alert-SOTVO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"HEADLINE 4 gas price alert-SOTVO","index":"E8","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"},{"type":"prepared","slug":"HEADLINE 4 gas price alert-SOTVO","index":"E8","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:29:52,164-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:29:52,478-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"HEADLINE 4 gas price alert-SOTVO","index":"E8","shotName":"SOT","templateName":"VO (POOL) ","transitionName":"WIPE"},{"type":"prepared","slug":"HEADLINE 4 gas price alert-SOTVO","index":"E8","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:29:54,541-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:29:54,557-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: E8 
+ HEADLINE 4 gas price alert-SOTVO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: E8 
+ HEADLINE 4 gas price alert-SOTVO 
+ SOT 
+ VO (POOL)  
+ WIPE
+INFO:__main__:Prepared: E8 
+ HEADLINE 4 gas price alert-SOTVO 
+ CONT VO LR 
+ AUDIO ONLY 
+ Audio Only
+ERROR:__main__:JSON Decode error: {"shots":[{"type":"onair","slug":"HEADLINE 4 gas price alert-SOTVO","index":"E8","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"HEADLINE 4 gas price alert-SOTVO","index":"E8","shotName":"CONT VO LR","templateName":"AUDIO ONLY","transitionName":"Audio Only"}],"meta":{"serverDate":"2024-09-04T06:29:57,621-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+{"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:29:57,637-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+ 
+ Trying to repair.
+INFO:__main__:On Air: E8 
+ HEADLINE 4 gas price alert-SOTVO 
+ CONT VO LR 
+ AUDIO ONLY 
+ Audio Only
+INFO:__main__:Prepared: E10 
+ FIRST WEATHER-SBBOX 
+ 2000 - SBBOX  XPT XPT 
+ SBBOX  XPT XPT 
+ TRANS - WX
+INFO:__main__:On Air: E10 
+ FIRST WEATHER-SBBOX 
+ 2000 - SBBOX  XPT XPT 
+ SBBOX  XPT XPT 
+ TRANS - WX
+INFO:__main__:Prepared: E8 
+ HEADLINE 4 gas price alert-SOTVO 
+ CONT VO LR 
+ AUDIO ONLY 
+ Audio Only
+INFO:__main__:Prepared: E10 
+ FIRST WEATHER-SBBOX 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:Prepared: E11 
+ FIRST WEATHER-INTRO 
+ CAM 5 
+ SET XPT 
+ Cut
+INFO:__main__:On Air: E10 
+ FIRST WEATHER-SBBOX 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:On Air: E11 
+ FIRST WEATHER-INTRO 
+ CAM 5 
+ SET XPT 
+ Cut
+INFO:__main__:Prepared: E11 
+ FIRST WEATHER-INTRO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+INFO:__main__:On Air: E11 
+ FIRST WEATHER-INTRO 
+ 99 - XPN 1 MOS CG 
+ XPN 1 MOS CG 
+ --
+ERROR:__main__:JSON Decode error: {"cues":{"lastOnAirMsg":"-","lastOnAirMsgDate":"-","lastPreparedMsg":"-","lastPreparedMsgDate":"-"},"meta":{"serverDate":"2024-09-04T06:30:17,760-0400","odHost":"10.10.78.10","odVersion":"22.3.8"}}
+{"shots":[{"type":"onair","slug":"FIRST WEATHER-INTRO","index":"E11","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"},{"type":"prepared","slug":"FIRST WEATHER-INTRO","index":"E11","shotName":"99 - XPN 1 MOS CG","templateName":"XPN 1 MOS CG","transitionName":"--"}],"meta":{"serverDate":"2024-09-04T06:30:17,760-0400","odHost":"10.10.78.10","odVersion":"22.3.8","correlationId":"0"}}
+ 
+ Trying to repair.
+INFO:__main__:Prepared: E0 
+ BREAK 4 
+ 8W VAR 
+ AUDIO ONLY 
+ Audio Only
+INFO:__main__:On Air: E0 
+ BREAK 4 
+ BREAK 
+ BK 
+ DISS30
